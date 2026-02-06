@@ -9,7 +9,7 @@
 [![CI status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/brandonlacoste9-tech/MAXS/actions)
 [![GitHub release](https://img.shields.io/badge/release-v1.0.0-blue)](https://github.com/brandonlacoste9-tech/MAXS/releases)
 [![Discord](https://img.shields.io/badge/Discord-Join-7289da)](https://discord.gg/openclaw)
-[![MIT License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![Apache License 2.0](https://img.shields.io/badge/license-Apache%202.0-green)](LICENSE)
 
 </div>
 
